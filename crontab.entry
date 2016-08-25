@@ -1,0 +1,2 @@
+MAILTO="qiao.xu@vanderbilt.edu"
+0 0 * * * /home/xuq7/baidu/backup.sh
